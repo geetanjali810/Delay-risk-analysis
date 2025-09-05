@@ -9,3 +9,6 @@ Predicts infrastructure project delays using Random Forest classification.
 
 ## Insights
 - Top risk drivers: material delays, labor shortages, weather
+
+### Results
+![Feature Importances for Delay Risk](delay_risk_feature_importances.png)
