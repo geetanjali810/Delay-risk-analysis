@@ -1,0 +1,6 @@
+project_id,planned_duration_days,actual_duration_days,labor_shortage,material_delay,weather_days,subcontractor_issues,cost_overrun_pct
+PR001,180,200,1,1,5,0,12.5
+PR002,120,125,0,1,2,1,5.4
+PR003,240,238,0,0,1,0,2.2
+PR004,365,410,1,1,20,1,25.0
+PR005,90,95,0,0,0,0,3.0
